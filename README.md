@@ -2,6 +2,7 @@
 
 ## Making videos
 
+- [This file](https://docs.google.com/document/d/1PttbtHgQONI5_6K0J6LKGGkzmjMwnVOCreIzvkUeGwM/edit#) provides instructions for content creators to create cohesive content for the Academy, including lectures, videos, tutorials, and written content. It also gives instructions for the Day Lead to create and format their materials.
 - Make your slides using [this template](https://docs.google.com/presentation/d/1JqAIxbeDw0QdEiU_C-DjR7Ks9Tbxs6xNcNr-VSPt0Yo/edit#slide=id.p). Please don't change the template! We have included boxes for your video (top right) and captions (large box at the bottom). Make sure to change the footer in the bottom left such that it has your name and topic there. Note that the template changed, because it previously had information in the bottom right of the footer, but this information has been removed to ease consistency across years. The materials will eventually be published as CC-BY.
 - **Make sure your slides don't use any copyrighted material.** For example, we can't include figures from journals if they are not open access. Please see [here](https://docs.google.com/document/d/10T1DTP9U7ozGqgjBnYLNFkU_I9IkNRd3eVUUOGJHkZc/edit?usp=share_link) for more information about copyrighted materials.
 - Create accessible figures by using colorblind-friendly colors and by adding Alt text where possible. You can find instructions on increased accessibility [here](https://docs.google.com/document/d/1w8WKcaZWl1qO5IJkGBWZZbmL29guFS18UZAljBCEWFk/edit?usp=sharing).
